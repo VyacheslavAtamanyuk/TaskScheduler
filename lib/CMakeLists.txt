@@ -1,0 +1,1 @@
+add_library(TaskScheduler INTERFACE TaskScheduler.h Task.h Any.h DependenciesGraph.h FutureResult.h CustomConcepts.h)
